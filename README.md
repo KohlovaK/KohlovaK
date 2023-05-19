@@ -1,4 +1,4 @@
-<h1>Hi, I'm Karolina! <br/><a href="https://www.linkedin.com/in/karolína-kohlová-7504b7b3/">Cybersecurity and Data Analyst Professional</a></h1>
+<h1>Hi, I'm Karolina! <br/></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
