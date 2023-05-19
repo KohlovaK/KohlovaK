@@ -3,9 +3,9 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Cybersecurity Projects</b>
-  - [Azure Sentinel Map with Live Attacks](https://github.com/url)
+  - [Azure Sentinel Map with Live Attacks](https://github.com/)
 - <b>Python</b>
-  - [Pong Game](https://github.com/url)
+  - [Pong Game](https://github.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
