@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Cybersecurity Projects</b>
-  - [Azure Sentinel Map with Live Attacks](https://github.com/)
+  - [Azure Sentinel Map with Live Attacks](https://github.com/KohlovaK/AzureSentinelMap)
 - <b>Python</b>
   - [Pong Game](https://github.com/)
 
