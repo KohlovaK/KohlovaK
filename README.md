@@ -5,7 +5,7 @@
 - <b>Cybersecurity Projects</b>
   - [Azure Sentinel Map with Live Attacks](https://github.com/KohlovaK/AzureSentinelMap)
 - <b>Python</b>
-  - [Pong Game](https://github.com/)
+  - [Pong Game](https://github.com/KohlovaK/Pong)
 
 <h2> 🤳 Connect with me:</h2>
 
