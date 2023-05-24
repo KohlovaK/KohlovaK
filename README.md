@@ -4,6 +4,7 @@
 
 - <b>Cybersecurity Projects</b>
   - [Azure Sentinel Map with Live Attacks](https://github.com/KohlovaK/AzureSentinelMap)
+  - [Vulnerability Management - Nessus](https://github.com/KohlovaK/VulnerabilityManagement)
 - <b>Python</b>
   - [Pong Game](https://github.com/KohlovaK/Pong)
 
